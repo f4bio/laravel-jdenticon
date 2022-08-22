@@ -1,6 +1,6 @@
 <?php
 
-namespace F4bio\LaravelJdenticon\View\Components;
+namespace F4bio\LaravelJdenticon\Http\Components;
 
 use Illuminate\Contracts\View\View;
 use Illuminate\View\Component;

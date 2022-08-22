@@ -2,9 +2,9 @@
 
 namespace F4bio\LaravelJdenticon\Tests;
 
+use F4bio\LaravelJdenticon\LaravelJdenticonServiceProvider;
 use Illuminate\Database\Eloquent\Factories\Factory;
 use Orchestra\Testbench\TestCase as Orchestra;
-use F4bio\LaravelJdenticon\LaravelJdenticonServiceProvider;
 
 class TestCase extends Orchestra
 {

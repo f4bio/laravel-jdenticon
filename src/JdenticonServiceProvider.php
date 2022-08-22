@@ -9,13 +9,13 @@ use Spatie\LaravelPackageTools\PackageServiceProvider;
 
 class JdenticonServiceProvider extends PackageServiceProvider
 {
-  public function configurePackage(Package $package): void
-  {
-    $package
+    public function configurePackage(Package $package): void
+    {
+        $package
       ->name('laravel-jdenticon')
       ->hasConfigFile()
       ->hasViews();
 
-    Blade::component(JdenticonComponent::class, 'jdenticon');
-  }
+        Blade::component(JdenticonComponent::class, 'jdenticon');
+    }
 }

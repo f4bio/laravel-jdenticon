@@ -1,6 +1,3 @@
-
-[<img src="https://github-ads.s3.eu-central-1.amazonaws.com/support-ukraine.svg?t=1" />](https://supportukrainenow.org)
-
 # Laravel Wrapper for dmester/jdenticon-php
 
 [![Latest Version on Packagist](https://img.shields.io/packagist/v/f4bio/laravel-jdenticon.svg?style=flat-square)](https://packagist.org/packages/f4bio/laravel-jdenticon)
@@ -75,12 +72,11 @@ Please see [CONTRIBUTING](CONTRIBUTING.md) for details.
 
 ## Security Vulnerabilities
 
-Please review [our security policy](../../security/policy) on how to report security vulnerabilities.
+Please review [our security policy](security_policy.md) on how to report security vulnerabilities.
 
 ## Credits
 
 - [Fabio Tea](https://github.com/f4bio)
-- [All Contributors](../../contributors)
 
 ## License
 

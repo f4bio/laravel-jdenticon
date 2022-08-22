@@ -60,7 +60,7 @@
   "extra": {
     "laravel": {
       "providers": [
-        "F4bio\\LaravelJdenticon\\LaravelJdenticonServiceProvider"
+        "F4bio\\LaravelJdenticon\\JdenticonServiceProvider"
       ]
     }
   },

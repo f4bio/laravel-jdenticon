@@ -47,6 +47,6 @@ class JdenticonComponent extends Component
      */
     public function render(): View
     {
-        return view('components.jdenticon', ['icon' => $this->icon]);
+        return view("jdenticon::jdenticon", ["icon" => $this->icon]);
     }
 }

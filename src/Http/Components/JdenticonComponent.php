@@ -25,9 +25,6 @@ class JdenticonComponent extends Component
 
     /**
      * Create a new component instance.
-     *
-     * @param  string  $value
-     * @param  int  $size
      */
     public function __construct(string $value, int $size = 256)
     {
@@ -42,8 +39,6 @@ class JdenticonComponent extends Component
 
     /**
      * Get the view / contents that represent the component.
-     *
-     * @return View
      */
     public function render(): View
     {
